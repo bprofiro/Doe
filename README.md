@@ -1,17 +1,33 @@
-# Doe
+<p align="center">
+  <img src="https://github.com/bprofiro/assets/blob/master/logo.png">
+</p>
+
+<h1 align="center">
+  🩸 Be a Donnor
+</h3>
 
 
-# 🩸 Sobre o projeto:
+<p align="center">
+  <img src="https://github.com/bprofiro/doe/blob/master/Doe2.png"/>  
+</p>
 
-O Doe é um web site criado a partir de HTML, CSS e JavaScript que recolhe dados de um usuário para registrar no banco de dados de doadores de sangue.
+<div>
+  <h2> :rocket: About the project: </h2>
 
-Uma animação simples foi feita no botão "Quero ajudar", que, ao aciona-lo, o formulário aparece para ser preenchidos com os dados do usuário.
+  <p> Be a Donor is a web site created from HTML, CSS and JavaScript that collects data from a user to register in the blood donor database.
 
-![Doe1](https://github.com/bprofiro/doe/blob/master/Doe2.png)
+A simple animation was made on the "Quero ajudar" button, which, when activated, the form appears to be filled in with the user's data. </p>
+</div>
 
-Os dados do formulário são armazenados usando um banco de dados relacional, Postgress, e aparecem abaixo na sessão "Últimos doadores".
+<div>
+  <h2> :computer: Techs: </h2>
+   <p> This project was built iusing the following technologies:
 
-![Doe](https://github.com/bprofiro/doe/blob/master/Doe1.png)
+   -   [HTML](https://devdocs.io/html/)
+   -   [CSS](https://devdocs.io/css/)
+   -   [JavaScripit](https://devdocs.io/javascript/)
+  </p>
+</div>
 
 
 
