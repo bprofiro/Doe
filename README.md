@@ -1,34 +1,24 @@
 <p align="center">
-  <img src="https://github.com/bprofiro/assets/blob/master/logo.png">
+  <img src="https://github.com/bprofiro/assets/blob/master/logo.png" />
 </p>
-
-<h1 align="center">
-  🩸 Be a Donnor
-</h3>
-
-
+ 
 <p align="center">
-  <img src="https://github.com/bprofiro/doe/blob/master/Doe2.png"/>  
+  <img src="https://github.com/bprofiro/doe/blob/master/Doe2.png" />
 </p>
 
-<div>
-  <h2> :rocket: About the project: </h2>
+## Sobre o Projeto
 
-  <p> Be a Donor is a web site created from HTML, CSS and JavaScript that collects data from a user to register in the blood donor database.
+  Doe é um site criado a partir de HTML, CSS e JavaScript que coleta dados de um usuário para se registrar no banco de dados de doadores de sangue.
 
-A simple animation was made on the "Quero ajudar" button, which, when activated, the form appears to be filled in with the user's data. </p>
-</div>
+  Foi feita uma animação simples no botão "Quero ajudar", que, quando ativado, o formulário parece ser preenchido com os dados do usuário.
 
-<div>
-  <h2> :computer: Techs: </h2>
-   <p> This project was built iusing the following technologies:
+## Tecnologias:
+  O Ecoleta é um aplicação complexa e, por tanto, muitas ferramentas foram utilizadas para o seu desenvolvimento. Entre elas estão:
 
-   -   [HTML](https://devdocs.io/html/)
-   -   [CSS](https://devdocs.io/css/)
-   -   [JavaScripit](https://devdocs.io/javascript/)
-  </p>
-</div>
-
-
-
-
+- Node
+- Postgres
+- Nunjucks
+- Nodemon
+- Express
+- HTML
+- CSS
